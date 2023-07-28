@@ -500,8 +500,9 @@ hr{
         font-size: 30px;
     }
     .head-line{
-        margin-left: 110px;
-        width: 150px;
+        margin-left: 30%;
+        margin-right: 30%;
+        width: 40%;
         height: 1px;
     }
     .sub-heading{
