@@ -206,6 +206,10 @@ hr{
     display: inline-block;
     block-size: fit-content;
 }
+.container-project{
+    display: inline-block;
+    block-size: fit-content;
+}
 .margin{
     margin-top: 100px;
 }
@@ -523,6 +527,11 @@ hr{
     .container{
         display: block;
     }
+    .container-project{
+        display: grid;
+        place-items: center;
+           
+       }
     .education-content{
         margin-left: 60px;
         font-size: 16px;
